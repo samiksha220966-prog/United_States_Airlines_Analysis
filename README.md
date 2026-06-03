@@ -1,2 +1,1 @@
-# United_States_Airlines_Analysis
-Analyzed large-scale U.S. airline datasets using Python, Pandas, NumPy, SQL, Matplotlib, and Seaborn. Performed data cleaning, EDA, KPI analysis, and visualization to identify delay trends, airline performance patterns, route efficiency, and operational bottlenecks, generating actionable business insights. 
+Healthcare Insurance Cost Prediction using Python, Pandas, NumPy, Scikit-learn, and Statistical Analysis. Performed data cleaning, EDA, hypothesis testing, feature engineering, and predictive modeling. Built Linear Regression, Ridge Regression, and Gradient Boosting models, achieving R² = 0.97 for hospitalization cost prediction.
